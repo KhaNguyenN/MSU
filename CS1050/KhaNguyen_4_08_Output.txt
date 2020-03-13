@@ -1,0 +1,19 @@
+
+Miles traveled		Reimbursements
+     250.6		  $45.11
+      99.4		  $17.89
+      -2.8		 ******
+     999.4		 $126.93
+     799.4		 $124.91
+    1899.8		 $199.98
+       0.0		 ******
+    1300.2		 $140.02
+    1101.7		 $139.20
+    3333.3		 $239.00
+
+Total Mileage is  9783.8
+Total Reimbursement is $1033.04
+The average of all the valid miles is  2445.95
+The average of all the valid reimbursements is  $258.26
+Total input is 10
+Total of valid input is 8

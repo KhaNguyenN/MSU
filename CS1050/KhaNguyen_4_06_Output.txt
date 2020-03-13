@@ -1,0 +1,14 @@
+Miles Traveled           Reimbursement
+   250.6                    45.11
+    99.4                    17.89
+    -2.8                    *****
+   999.4                   126.93
+   799.4                   124.91
+  1899.8                   199.98
+     0.0                    *****
+  1300.2                   140.02
+  1101.7                   139.20
+  3333.3                   239.00
+Total Reimbursement is $1,033.04
+Number of lines proccesed is 10
+Number of valid lines is 8

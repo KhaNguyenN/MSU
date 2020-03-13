@@ -1,0 +1,3 @@
+STUDENT,ADD,studentId,firstName,lastName,emailAddress
+GRADE ITEM,ADD,id,studentId,courseId,type,date,maxScore,actualScore
+
