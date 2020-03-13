@@ -1,0 +1,48 @@
+clc 
+clear all
+close all
+
+%% day 2 EX 1
+im=uint8(zeros(256));
+for i=1:256
+    for j=1:256
+         
+        im(i,j)=randi([0,255],1);
+         
+    end
+end
+figure,imshow(im)
+
+%% day 2 EX 2
+im=uint8(zeros(256));
+for i=1:256
+    for j=1:256
+         
+        im(i,j)=255-i+1;
+         
+    end
+end
+figure,imshow(im)
+
+%% day 2 EX 2-1
+R=80;
+im=uint8(zeros(256));
+for i=1:256
+    for j=1:256
+        if sqrt((i-128)^2+(j-128)^2)<R
+        im(i,j)=round(sqrt((i-128)^2+(j-128)^2) );
+        end
+    end
+end
+figure,imshow(im)
+
+%% day 2 EX 2-2
+im=uint8(zeros(256));
+for i=1:256
+    for j=1:256
+        if round(sqrt((i-128)^2+(j-128)^2))==80
+        im(i,j)=255;
+        end
+    end
+end
+figure,imshow(im)
