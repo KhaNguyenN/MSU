@@ -7,7 +7,7 @@ I'm a recent graduate of Metropolitan State University of Denver (MSU), class of
 * [Softwaretools and Development](KhaNguyenN/MSU/README.md/Softwaretools)
 * [Functional Programming](KhaNguyenN/MSU/README.md/Functional)
 * [Digital Image Processing](KhaNguyenN/MSU/README.md/Digital)
-* [Technical Software Project](KhaNguyenN/MSU/README.md/Technical)
+* [Technical Software Project](#Technical-Software-Project-(CS4360))
 
 ## ComputerScience1 (CS1)
 ## ComputerScience2 (CS2)
