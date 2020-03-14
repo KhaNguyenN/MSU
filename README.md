@@ -2,7 +2,7 @@
 I'm a recent graduate of Metropolitan State University of Denver (MSU), class of fall of 2019. My name is Kha Nguyen and I am trying to find a full time position job. The list below is my portolio of previous works and projects done.
 
 # Table of Contents
-* [ComputerScience 1](KhaNguyenN/MSU/README.md/ComputerScience1)
+* [ComputerScience 1](github.com/KhaNguyenN/MSU/README.md/ComputerScience1)
 * [ComputerScience 2](KhaNguyenN/MSU/README.md/ComputerScience2)
 * [Softwaretools and Development](KhaNguyenN/MSU/README.md/Softwaretools)
 * [Functional Programming](KhaNguyenN/MSU/README.md/Functional)
